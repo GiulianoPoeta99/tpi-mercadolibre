@@ -1,6 +1,6 @@
 {
   "name": "tpi-mercadolibre",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Esta es la extensión del TPI de bases de datos 1.",
   "main": "index.js",
   "scripts": {
