@@ -1,7 +1,7 @@
 {
-  "name": "base-template",
+  "name": "tpi-mercadolibre",
   "version": "1.0.1",
-  "description": "Esta es una template para empezar cualquier proyecto.",
+  "description": "Esta es la extensión del TPI de bases de datos 1.",
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
