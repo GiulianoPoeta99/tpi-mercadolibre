@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/GiulianoPoeta99/tpi-api-mercadolibre.git
+[submodule "database"]
+	path = database
+	url = https://github.com/GiulianoPoeta99/tpi-db-mercadolibre.git
