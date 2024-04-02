@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.3.0 (2024-04-02)
+
+
+### Features
+
+* :sparkles: Se agregaron submodulos de git ([0a0fbc9](https://github.com/GiulianoPoeta99/tpi-mercadolibre/commit/0a0fbc9df9bffaf998940c00038334b4e58fdfc3))
+
 ### [1.2.1](https://github.com/GiulianoPoeta99/base-template/compare/v1.2.0...v1.2.1) (2024-04-01)
 
 ## [1.2.0](https://github.com/GiulianoPoeta99/base-template/compare/v1.1.0...v1.2.0) (2024-04-01)
